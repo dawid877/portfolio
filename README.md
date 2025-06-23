@@ -3,7 +3,12 @@
 Welcome to my personal portfolio. Below, you'll find a collection of data science and analytics projects I’ve completed using Python and R. Each repository includes a detailed README and reproducible code.
 
 ---
+## Regression for Price Prediction - ML
 
+**[Regression ML](https://github.com/dawid877/Regression_ML)**  
+This project demonstrates a complete end-to-end **regression machine learning** pipeline — from raw data preprocessing to model specification and evaluation — using **Python**
+
+---
 ## Web Scraping & EDA
 
 **[Car Leasing Web Scraping Project](https://github.com/PlatanowaAmbasssador/Web_Scrapping_Project)**  
