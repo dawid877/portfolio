@@ -9,6 +9,13 @@ Welcome to my personal portfolio. Below, you'll find a collection of data scienc
 This project demonstrates a complete end-to-end **regression machine learning** pipeline — from raw data preprocessing to model specification and evaluation — using **Python**
 
 ---
+## Mental Health dashboard in Power BI
+
+**[Dashboard](https://github.com/dawid877/Mental_Health_Dashboard/tree/main)**  
+Interactive Power BI report analyzing suicide attempt statistics in Poland (2017–2024).
+Includes trends, demographic patterns, social factors, and a regional map of mental-health support facilities.
+
+---
 ## Web Scraping & EDA
 
 **[Car Leasing Web Scraping Project](https://github.com/PlatanowaAmbasssador/Web_Scrapping_Project)**  
