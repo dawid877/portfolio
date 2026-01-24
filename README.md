@@ -3,6 +3,11 @@
 Welcome to my personal portfolio. Below, you'll find a collection of data science and analytics projects I’ve completed using Python and R. Each repository includes a detailed README and reproducible code.
 
 ---
+## Drug Consumption Classification Project - ML
+
+**[Classification ML](https://github.com/dawid877/ML2_Classification)**  
+This project applies **machine learning techniques** to predict the likelihood of drug consumption across a variety of substances, ranging from legal (alcohol, nicotine, chocolate) to illicit (crack, heroin, cannabis).---
+
 ## Regression for Price Prediction - ML
 
 **[Regression ML](https://github.com/dawid877/Regression_ML)**  
@@ -41,13 +46,6 @@ Used **R** to reduce the dimensionality of high-dimensional customer data from a
 
 **[Disease Association Rules](https://github.com/dawid877/disease_association_rules)**  
 Applied **association rule mining** in **R** to explore frequent symptom and behavior combinations among individuals diagnosed with asthma. Derived health-related insights from binary features.
-
----
-
-## Titanic Survival Prediction
-
-**[Titanic Logistic Regression](https://github.com/dawid877/Titanic_Logistic_Regression)**  
-Used **Python** and scikit-learn to build a logistic regression model that predicts Titanic passengers' survival. Includes cross-validation, hyperparameter tuning, and interpretability techniques.
 
 ---
 
