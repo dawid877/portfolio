@@ -8,10 +8,17 @@ Welcome to my personal portfolio. Below, you'll find a collection of data scienc
 **[Classification ML](https://github.com/dawid877/ML2_Classification)**  
 This project applies **machine learning techniques** to predict the likelihood of drug consumption across a variety of substances, ranging from legal (alcohol, nicotine, chocolate) to illicit (crack, heroin, cannabis).---
 
+---
 ## Regression for Price Prediction - ML
 
 **[Regression ML](https://github.com/dawid877/Regression_ML)**  
 This project demonstrates a complete end-to-end **regression machine learning** pipeline — from raw data preprocessing to model specification and evaluation — using **Python**
+
+---
+## Forex trading strategy using ML
+
+**[FX Classification](https://github.com/dawid877/Applied_Finance_project)
+This project builds a simple machine-learning trading strategy on tick-by-tick EUR/PLN FX data from TrueFX, aggregated to 1-minute bars, and uses LightGBM to predict short-term price direction.
 
 ---
 ## Mental Health dashboard in Power BI
