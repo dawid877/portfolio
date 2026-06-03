@@ -21,13 +21,6 @@ This project demonstrates a complete end-to-end **regression machine learning** 
 This project builds a simple machine-learning trading strategy on tick-by-tick EUR/PLN FX data from TrueFX, aggregated to 1-minute bars, and uses LightGBM to predict short-term price direction.
 
 ---
-## Mental Health dashboard in Power BI
-
-**[Dashboard](https://github.com/dawid877/Mental_Health_Dashboard/tree/main)**  
-Interactive Power BI report analyzing suicide attempt statistics in Poland (2017–2024).
-Includes trends, demographic patterns, social factors, and a regional map of mental-health support facilities.
-
----
 ## Web Scraping & EDA
 
 **[Car Leasing Web Scraping Project](https://github.com/PlatanowaAmbasssador/Web_Scrapping_Project)**  
